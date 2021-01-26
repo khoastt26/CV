@@ -1,0 +1,44 @@
+
+.container{
+    width: 600px;
+    background-color: whitesmoke;
+    height: 640px;
+    margin-left: 500px;
+    border: 2px solid skyblue;
+    
+}
+.info{
+    width:100%;
+    height: auto;
+
+}
+.infodetail{
+    margin-top: -30px;
+   
+}
+.index1{
+    width: 20%;
+    float:left;
+    height: 200px;
+    
+}
+.index2{
+    width: 40%;
+    float:left;
+    height: 200px;
+}
+.hinh{
+    width: 40%;
+    float: left;
+    height: 200px;
+}
+img{
+    padding-left: 112px;
+    margin-top: -17px;
+}
+table{
+   margin-bottom: -20px;
+}
+table .td1{
+    padding-bottom: 38px;
+}
